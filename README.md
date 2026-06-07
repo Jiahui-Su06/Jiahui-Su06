@@ -9,9 +9,8 @@ I'm a photonic integrated circuit (PIC) designer and the developer of [AWGSim](h
 - 👯 My ResearchGate homepage is [Jiahui Su's ResearchGate homepage](https://www.researchgate.net/profile/Jiahui-Su-5?ev=hdr_xprf).
 - 🌱 I’m passionate about open-source tools for design, simulation, and data analysis, such as [AWGSim](https://github.com/Jiahui-Su06/AWGSim/).
 
-<div align="center">
-  <figure>
-    <img src=".\AWG.png" alt="AWGSim" width="50%">
-    <figcaption>AWGSim</figcaption>
-  </figure>
-</div>
+<p align="center">
+  <img src=".\AWG.png" alt="AWGSim" width="50%">
+  <br>
+  <em>AWGSim</em>
+</p>
