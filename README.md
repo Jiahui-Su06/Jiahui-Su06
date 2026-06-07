@@ -12,5 +12,5 @@ I'm a photonic integrated circuit (PIC) designer and the developer of [AWGSim](h
 <p align="center">
   <img src=".\AWG.png" alt="AWGSim" width="50%">
   <br>
-  <em>AWGSim</em>
+  <em>AWGSim Schematic Diagram</em>
 </p>
