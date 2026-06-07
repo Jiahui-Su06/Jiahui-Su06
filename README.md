@@ -10,7 +10,7 @@ I'm a photonic integrated circuit (PIC) designer and the developer of [AWGSim](h
 - 🌱 I’m passionate about open-source tools for design, simulation, and data analysis, such as [AWGSim](https://github.com/Jiahui-Su06/AWGSim/).
 
 <p align="center">
-  <img src=".\AWG.png" alt="AWGSim" width="60%">
+  <img src=".\AWG.png" alt="AWGSim" width="50%">
   <br>
   <em>AWGSim Schematic Diagram</em>
 </p>
