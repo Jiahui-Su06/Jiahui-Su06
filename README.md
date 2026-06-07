@@ -1,4 +1,4 @@
-### Hi I'm Jiahui Su 👋
+### Hi, I'm Jiahui Su 👋
 I'm a Photonic integrated circuit (PIC) designer and the developer of [AWGSim]([url](https://github.com/Jiahui-Su06/AWGSim/))
 
 - 🔭 Currently, I’m working on several open-source projects, including [AWGSim]([url](https://github.com/Jiahui-Su06/AWGSim/)), [LayoutForge](https://github.com/Jiahui-Su06/LayoutForge).
