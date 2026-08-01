@@ -1,5 +1,5 @@
 ### Hi, I'm Jiahui Su 👋
-I'm a photonic integrated circuit (PIC) designer and the developer of [AWGSim](https://github.com/Jiahui-Su06/AWGSim/).
+I'm a photonic integrated circuit (PIC) designer and the developer of [AWGSim](https://github.com/Jiahui-Su06/AWGSim/), [AWGLayout](https://github.com/Jiahui-Su06/AWGLayout/).
 
 - 🔭 My research interests include, but are not limited to:
   - On-chip spectrometer
@@ -7,7 +7,7 @@ I'm a photonic integrated circuit (PIC) designer and the developer of [AWGSim](h
   - Quantum integrated photonics
   - Deep learning for photonics
 - 👯 My ResearchGate homepage is [Jiahui Su's ResearchGate homepage](https://www.researchgate.net/profile/Jiahui-Su-5?ev=hdr_xprf).
-- 🌱 I’m passionate about open-source tools for design, simulation, and data analysis, such as [AWGSim](https://github.com/Jiahui-Su06/AWGSim/), [LayoutForge](https://github.com/Jiahui-Su06/LayoutForge).
+- 🌱 I’m passionate about open-source tools for design, simulation, and data analysis, such as [GDS3D](https://github.com/Jiahui-Su06/GDS3D/).
 
 <p align="center">
   <img src=".\AWG_new.png" alt="AWGSim" width="50%">
