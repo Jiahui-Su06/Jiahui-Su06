@@ -1,5 +1,5 @@
 ### Hi, I'm Jiahui Su 👋
-I'm a photonic integrated circuit (PIC) designer and the developer of [AWGSim](https://github.com/Jiahui-Su06/AWGSim/), [AWGLayout](https://github.com/Jiahui-Su06/AWGLayout/).
+I'm a photonic integrated circuit (PIC) designer and the owner of [AWGForge](https://github.com/awg-forge).
 
 - 🔭 My research interests include, but are not limited to:
   - On-chip spectrometer
