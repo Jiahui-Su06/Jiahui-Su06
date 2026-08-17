@@ -6,7 +6,7 @@ I'm a photonic integrated circuit (PIC) designer and the owner of [AWGForge](htt
   - Nonlinear integrated photonics
   - Quantum integrated photonics
   - Deep learning for photonics
-- 👯 My academic homepage: 
+- 👯 My academic homepages: 
   - [ResearchGate](https://www.researchgate.net/profile/Jiahui-Su-5?ev=hdr_xprf)
   - [Google Scholar](https://scholar.google.com/citations?user=xhwSj3MAAAAJ&hl)
 - 🌱 I’m passionate about open-source tools for design, simulation, and data analysis, such as [gds3d](https://github.com/awg-forge/gds3d).
