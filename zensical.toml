@@ -11,30 +11,30 @@
 # The site_name is shown in the page header and the browser window title
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_name
-site_name = "PICs"
+site_name = "PIC Tutorial"
 
 # The site_description is included in the HTML head and should contain a
 # meaningful description of the site content for use by search engines.
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_description
-site_description = "A new project generated from the default template project."
+site_description = "Notes on integrated photonics, nonlinear optics, quantum optics, and photonic device simulation."
 
 # The site_author attribute. This is used in the HTML head element.
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_author
-site_author = "<your name here>"
+site_author = "Jiahui Su"
 
 # The site_url is the canonical URL for your site. When building online
 # documentation you should set this.
 # Read more: https://zensical.org/docs/setup/basics/#site_url
-#site_url = "https://www.example.com/"
+site_url = "https://jiahui-su06.github.io/Jiahui-Su06/"
 
 # The copyright notice appears in the page footer and can contain an HTML
 # fragment.
 #
 # Read more: https://zensical.org/docs/setup/basics/#copyright
 copyright = """
-Copyright &copy; 2026 The authors
+Copyright &copy; 2026 Jiahui Su
 """
 
 # Zensical supports both implicit navigation and explicitly defined navigation.
@@ -45,18 +45,18 @@ Copyright &copy; 2026 The authors
 #
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
-  { "入门指南 (Get started)" = "index.md" },
-  { "Markdown in 5min" = "markdown.md" },
-  { "AWG 设计" = [
-      { "版图生成 (Layout)" = "awg_design/layout.md" },
-      { "物理仿真 (Simulation)" = "awg_design/simulation.md" }
-  ]},
-  { "量子光学" = [
-      { "随机数生成" = "quantum_optics/quantum_optics.md" }
-  ]},
-  { "效率工具" = [
-      { "Lumerical 使用" = "toolkits/lumerical_tips.md" }
-  ]}
+    {"入门指南 (Get started)" = "index.md"},
+    {"Markdown in 5min" = "markdown.md"},
+    {"AWG 设计" = [
+        {"版图生成 (Layout)" = "awg_design/layout.md"},
+        {"物理仿真 (Simulation)" = "awg_design/simulation.md"}
+    ]},
+    {"量子光学" = [
+        {"随机数生成" = "quantum_optics/quantum_optics.md"}
+    ]},
+    {"效率工具" = [
+        {"Lumerical 使用" = "toolkits/lumerical_tips.md"}
+    ]}
 ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
@@ -118,7 +118,7 @@ nav = [
 # Read more:
 # - https://zensical.org/docs/setup/language/
 #
-language = "zh"
+language = "en"
 
 # Zensical provides a number of feature toggles that change the behavior
 # of the documentation site.
@@ -349,7 +349,7 @@ pygments_lang_class = true
 [project.markdown_extensions.pymdownx.smartsymbols]
 [project.markdown_extensions.pymdownx.superfences]
 custom_fences = [
-  { name = "mermaid", class = "mermaid", format = "pymdownx.superfences.fence_code_format" }
+    { name = "mermaid", class = "mermaid", format = "pymdownx.superfences.fence_code_format" }
 ]
 [project.markdown_extensions.pymdownx.tabbed]
 alternate_style = true
