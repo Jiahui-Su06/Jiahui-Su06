@@ -50,11 +50,10 @@ $$
 
 这个是行内公式 $k_{0}+2=e^{4}$
 
-
-![AWG](../../images/AWG.png){ width="70%" align=center}
+![AWG](../images/AWG.png){ width="70%" align=center}
 
 <p align="center">
-    <img src="../../images/AWG.png" width="50%">
+    <img src="../images/AWG.png" width="50%">
     <br>
     <em>AWGForge Schematic Diagram</em>
 </p>

@@ -29,6 +29,8 @@ site_author = "Jiahui Su"
 # Read more: https://zensical.org/docs/setup/basics/#site_url
 site_url = "https://jiahui-su06.github.io/Jiahui-Su06/"
 
+repo_url = "https://github.com/Jiahui-Su06/Jiahui-Su06"
+
 # The copyright notice appears in the page footer and can contain an HTML
 # fragment.
 #
@@ -275,8 +277,8 @@ features = [
 # - https://zensical.org/docs/setup/logo-and-icons
 # - https://github.com/zensical/ui/tree/master/dist/.icons
 # ----------------------------------------------------------------------------
-#[project.theme.icon]
-#logo = "lucide/smile"
+[project.theme.icon]
+repo = "fontawesome/brands/github"
 
 # ----------------------------------------------------------------------------
 # In the "font" subsection you can configure the fonts used. By default, fonts
@@ -312,7 +314,7 @@ toggle.name = "Switch to light mode"
 # ----------------------------------------------------------------------------
 [[project.extra.social]]
 icon = "fontawesome/brands/github"
-link = "https://github.com/Jiahui-Su06/Jiahui-Su06"
+link = "https://github.com/Jiahui-Su06"
 
 # ----------------------------------------------------------------------------
 # In this section you can configure the Markdown extensions that are used when
