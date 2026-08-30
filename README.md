@@ -13,7 +13,7 @@ I'm a photonic integrated circuit (PIC) designer and the owner of [AWGForge](htt
 - 🌱 I’m passionate about open-source tools for design, simulation, and data analysis, such as [gds3d](https://github.com/awg-forge/gds3d).
 
 <p align="center">
-  <img src="images\AWG_new.png" alt="AWGForge" width="50%">
+  <img src="docs\images\AWG_new.png" alt="AWGForge" width="50%">
   <br>
   <em>AWGForge Schematic Diagram</em>
 </p>
