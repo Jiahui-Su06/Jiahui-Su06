@@ -17,3 +17,8 @@ I'm a photonic integrated circuit (PIC) designer and the owner of [AWGForge](htt
   <br>
   <em>AWGForge Schematic Diagram</em>
 </p>
+
+My engineering interests:
+- Numerical simulation of electromagnetics and photonic quantum systems (software)
+- Integration of neural networks / deep learning with PIC (software)
+- Cross-field applications combining PIC and engineering optics (hardware)
